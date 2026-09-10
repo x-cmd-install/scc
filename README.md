@@ -22,23 +22,36 @@ x install scc
 - **Latest**: `v4.1.0` (2026-09-07)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 9
-- **Published**: 2026-09-07T22:41:50Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/boyter/scc/releases/download/v4.1.0/checksums.txt) | 712 B | `other` |
+| [scc_Darwin_arm64.tar.gz](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Darwin_arm64.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
+| [scc_Darwin_x86_64.tar.gz](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Darwin_x86_64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
+| [scc_Linux_arm64.tar.gz](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Linux_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
+| [scc_Linux_i386.tar.gz](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Linux_i386.tar.gz) | 6.4 MiB | `native/linux/x86` |
+| [scc_Linux_x86_64.tar.gz](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Linux_x86_64.tar.gz) | 6.7 MiB | `native/linux/x64` |
+| [scc_Windows_arm64.zip](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
+| [scc_Windows_i386.zip](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Windows_i386.zip) | 6.7 MiB | `native/win/x64` |
+| [scc_Windows_x86_64.zip](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 8,729 · **Forks**: 345 · **Open issues**: 342 · **Contributors**: 138
+- **Stars**: 8,728 · **Forks**: 345 · **Open issues**: 342 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 384 · **Open PRs**: 3 · **Closed issues**: 319 · **Open issues**: 23 · **Commits**: 1675
+- **Releases**: 45 · **Merged PRs**: 384 · **Open PRs**: 4 · **Closed issues**: 319 · **Open issues**: 23 · **Commits**: 1675
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 20 | 0 | 4 | 1 | 23 |
-| 90d | 2026-06-12 | 2 | 45 | 1 | 7 | 2 | 75 |
-| 360d | 2025-09-15 | 4 | 101 | 3 | 17 | 4 | 161 |
+| 30d | 2026-08-11 | 2 | 20 | 1 | 4 | 1 | 23 |
+| 90d | 2026-06-12 | 2 | 45 | 2 | 7 | 2 | 75 |
+| 360d | 2025-09-15 | 4 | 101 | 4 | 17 | 4 | 161 |
 
 ## Code size
 
@@ -67,8 +80,8 @@ Lowest-scoring checks:
 Install metadata for scc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `scc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/scc.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/scc.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:28:22Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:48:58Z._
