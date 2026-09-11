@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.1.0"
   latestRelease: "v4.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T02:23:25Z
+  collectedAt: 2026-09-11T20:53:05Z
 timeline:
   created: 2018-03-01
   lastCommit: 2026-09-11
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 8728
+  star: 8733
   watcher: 36
-  fork: 345
+  fork: 344
   release: 45
   contributor: 138
   pullRequest: 404
@@ -89,7 +89,7 @@ total:
   commit: 1677
 ---
 path: /home/runner/.x-repo/github.com/boyter/scc
-collectedAt: 2026-09-11T02:23:28Z
+collectedAt: 2026-09-11T20:53:08Z
 loc:
   Graphql:
     code: 51644
