@@ -2,15 +2,15 @@ about:
   description: "Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go"
   license: MIT
   homepage: 
-  head: f2b586e
+  head: 1a89b0a
   archived: false
   latestVersion: "v4.1.0"
   latestRelease: "v4.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:24:55Z
+  collectedAt: 2026-09-11T02:23:25Z
 timeline:
   created: 2018-03-01
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-07
   lastRelease: 2026-09-07
   lastPrerelease: 
@@ -35,61 +35,61 @@ recent:
   last30d:
     since: 2026-08-12
     release: 2
-    mergedPR: 21
-    openPR: 1
+    mergedPR: 22
+    openPR: 0
     closedIssue: 4
     openIssue: 1
-    commit: 24
+    commit: 25
   last60d:
     since: 2026-07-13
     release: 2
-    mergedPR: 34
-    openPR: 1
+    mergedPR: 35
+    openPR: 0
     closedIssue: 5
     openIssue: 2
-    commit: 41
+    commit: 42
   last90d:
     since: 2026-06-13
     release: 2
-    mergedPR: 46
-    openPR: 2
+    mergedPR: 47
+    openPR: 1
     closedIssue: 7
     openIssue: 2
-    commit: 76
+    commit: 77
   last180d:
     since: 2026-03-15
     release: 2
-    mergedPR: 68
-    openPR: 4
+    mergedPR: 69
+    openPR: 3
     closedIssue: 12
     openIssue: 3
-    commit: 112
+    commit: 113
   last360d:
     since: 2025-09-16
     release: 4
-    mergedPR: 102
-    openPR: 4
+    mergedPR: 103
+    openPR: 3
     closedIssue: 17
     openIssue: 4
-    commit: 162
+    commit: 163
   last720d:
     since: 2024-09-21
     release: 6
-    mergedPR: 196
-    openPR: 4
+    mergedPR: 197
+    openPR: 3
     closedIssue: 45
     openIssue: 11
-    commit: 297
+    commit: 298
 total:
   release: 45
-  mergedPR: 385
-  openPR: 4
+  mergedPR: 386
+  openPR: 3
   closedIssue: 319
   openIssue: 23
-  commit: 1676
+  commit: 1677
 ---
 path: /home/runner/.x-repo/github.com/boyter/scc
-collectedAt: 2026-09-11T00:24:58Z
+collectedAt: 2026-09-11T02:23:28Z
 loc:
   Graphql:
     code: 51644
@@ -418,7 +418,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1594
+    comments: 1596
     blanks: 498
     files: 9
   Text:
@@ -433,7 +433,7 @@ loc:
     files: 1
 total:
   code: 114973
-  comments: 7147
+  comments: 7149
   blanks: 16563
   files: 258
 ---
