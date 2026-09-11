@@ -12,6 +12,28 @@ Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity ca
 x install scc
 ```
 
+## Code insight
+
+Total: **114,617** lines of code across **134** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Graphql | 51,644 | 0 | 9,958 | 1 |
+| Go | 44,060 | 3,982 | 4,164 | 105 |
+| Json | 9,685 | 0 | 1 | 2 |
+| Java | 2,464 | 651 | 798 | 24 |
+| Html | 1,460 | 0 | 6 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.1 / 10**
+
+Lowest-scoring checks:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/boyter/scc>
@@ -20,8 +42,27 @@ x install scc
 ## Release
 
 - **Latest**: `v4.1.0` (2026-09-07)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-10
 - **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 8,728 · **Forks**: 345 · **Open issues**: 342 · **Contributors**: 138
+
+## Totals (cumulative)
+
+- **Releases**: 45 · **Merged PRs**: 385 · **Open PRs**: 4 · **Closed issues**: 319 · **Open issues**: 23 · **Commits**: 1676
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 2 | 21 | 1 | 4 | 1 | 24 |
+| last60d | 2026-07-13 | 2 | 34 | 1 | 5 | 2 | 41 |
+| 90d | 2026-06-13 | 2 | 46 | 2 | 7 | 2 | 76 |
+| last180d | 2026-03-15 | 2 | 68 | 4 | 12 | 3 | 112 |
+| 360d | 2025-09-16 | 4 | 102 | 4 | 17 | 4 | 162 |
+| last720d | 2024-09-21 | 6 | 196 | 4 | 45 | 11 | 297 |
 
 ## Release assets
 
@@ -37,44 +78,6 @@ x install scc
 | [scc_Windows_i386.zip](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Windows_i386.zip) | 6.7 MiB | `native/win/x64` |
 | [scc_Windows_x86_64.zip](https://github.com/boyter/scc/releases/download/v4.1.0/scc_Windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
 
-## Popularity
-
-- **Stars**: 8,728 · **Forks**: 345 · **Open issues**: 342 · **Contributors**: 138
-
-## Totals (cumulative)
-
-- **Releases**: 45 · **Merged PRs**: 384 · **Open PRs**: 4 · **Closed issues**: 319 · **Open issues**: 23 · **Commits**: 1675
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 20 | 1 | 4 | 1 | 23 |
-| 90d | 2026-06-12 | 2 | 45 | 2 | 7 | 2 | 75 |
-| 360d | 2025-09-15 | 4 | 101 | 4 | 17 | 4 | 161 |
-
-## Code size
-
-Total: **114,518** lines of code across **133** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Graphql | 51,644 | 0 | 9,958 | 1 |
-| Go | 43,965 | 3,976 | 4,149 | 104 |
-| Json | 9,681 | 0 | 1 | 2 |
-| Java | 2,464 | 651 | 798 | 24 |
-| Html | 1,460 | 0 | 6 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.1 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-
 ## Improve this data
 
 Install metadata for scc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `scc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +87,4 @@ Install metadata for scc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:48:58Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:25:06Z._
