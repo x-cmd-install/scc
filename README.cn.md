@@ -4,7 +4,7 @@
 
 Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 
-![scc](https://repo.x-cmd.io/scc.svg?lang=zh)
+[![x-cmd/install — scc Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scc.svg?lang=zh)](https://x-cmd.com/install/scc)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install scc
 
 ## 流行度
 
-- **Star**: 8,761 · **Fork**: 345 · **开放 issue**: 342 · **贡献者**: 138
+- **Star**: 8,765 · **Fork**: 346 · **开放 issue**: 342 · **贡献者**: 138
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install scc
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 14 | 1 | 4 | 1 | 20 |
-| last60d | 2026-07-20 | 2 | 35 | 1 | 5 | 1 | 41 |
-| 90d | 2026-06-20 | 2 | 49 | 1 | 6 | 1 | 76 |
-| last180d | 2026-03-22 | 2 | 69 | 4 | 12 | 2 | 110 |
-| 360d | 2025-09-23 | 4 | 104 | 4 | 17 | 3 | 164 |
-| last720d | 2024-09-28 | 6 | 194 | 4 | 44 | 9 | 297 |
+| 30d | 2026-08-21 | 2 | 12 | 1 | 4 | 1 | 20 |
+| last60d | 2026-07-22 | 2 | 35 | 1 | 5 | 1 | 41 |
+| 90d | 2026-06-22 | 2 | 48 | 1 | 6 | 1 | 76 |
+| last180d | 2026-03-24 | 2 | 68 | 4 | 12 | 2 | 110 |
+| 360d | 2025-09-25 | 4 | 104 | 4 | 17 | 3 | 164 |
+| last720d | 2024-09-30 | 5 | 188 | 4 | 44 | 9 | 293 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ scc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T02:34:43Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T02:45:11Z._
