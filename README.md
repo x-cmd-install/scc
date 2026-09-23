@@ -4,7 +4,7 @@
 
 Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 
-[![x-cmd/install — scc Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scc.svg)](https://x-cmd.com/install/scc)
+[![x-cmd/install — scc Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/scc.svg)](https://x-cmd.com/install/scc)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,768 · **Forks**: 346 · **Open issues**: 342 · **Contributors**: 138
+- **Stars**: 8,771 · **Forks**: 346 · **Open issues**: 342 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 389 · **Open PRs**: 4 · **Closed issues**: 320 · **Open issues**: 22 · **Commits**: 1680
+- **Releases**: 45 · **Merged PRs**: 389 · **Open PRs**: 5 · **Closed issues**: 320 · **Open issues**: 22 · **Commits**: 1680
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 13 | 1 | 4 | 1 | 10 |
-| last60d | 2026-07-24 | 2 | 36 | 1 | 5 | 1 | 40 |
-| 90d | 2026-06-24 | 2 | 44 | 1 | 6 | 1 | 53 |
-| last180d | 2026-03-26 | 2 | 67 | 4 | 12 | 2 | 108 |
-| 360d | 2025-09-27 | 4 | 104 | 4 | 15 | 3 | 160 |
-| last720d | 2024-10-02 | 5 | 180 | 4 | 41 | 9 | 269 |
+| 30d | 2026-08-24 | 2 | 12 | 2 | 4 | 1 | 10 |
+| last60d | 2026-07-25 | 2 | 36 | 2 | 5 | 1 | 40 |
+| 90d | 2026-06-25 | 2 | 43 | 2 | 6 | 1 | 53 |
+| last180d | 2026-03-27 | 2 | 67 | 5 | 12 | 2 | 108 |
+| 360d | 2025-09-28 | 4 | 104 | 5 | 15 | 3 | 160 |
+| last720d | 2024-10-03 | 5 | 180 | 5 | 41 | 9 | 267 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for scc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T02:44:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T02:44:01Z._
