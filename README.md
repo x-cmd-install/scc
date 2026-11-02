@@ -14,13 +14,13 @@ x install scc
 
 ## Code insight
 
-Total: **129,921** lines of code across **201** files in the top 5 languages.
+Total: **130,371** lines of code across **202** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 58,682 | 7,301 | 5,653 | 172 |
+| Go | 59,067 | 7,322 | 5,688 | 173 |
 | Graphql | 51,644 | 0 | 9,958 | 1 |
-| Json | 10,007 | 0 | 1 | 2 |
+| Json | 10,072 | 0 | 1 | 2 |
 | Java | 2,464 | 651 | 798 | 24 |
 | Html | 1,470 | 0 | 6 | 2 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.0` (2026-09-07)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-02
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 8,858 · **Forks**: 360 · **Open issues**: 348 · **Contributors**: 146
+- **Stars**: 8,857 · **Forks**: 360 · **Open issues**: 348 · **Contributors**: 148
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 418 · **Open PRs**: 10 · **Closed issues**: 324 · **Open issues**: 24 · **Commits**: 1710
+- **Releases**: 45 · **Merged PRs**: 424 · **Open PRs**: 5 · **Closed issues**: 324 · **Open issues**: 24 · **Commits**: 1717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 25 | 7 | 2 | 3 | 27 |
-| last60d | 2026-09-02 | 1 | 36 | 7 | 2 | 4 | 35 |
-| 90d | 2026-08-03 | 2 | 64 | 7 | 6 | 4 | 67 |
-| last180d | 2026-05-05 | 2 | 87 | 9 | 12 | 4 | 127 |
-| 360d | 2025-11-06 | 3 | 124 | 10 | 17 | 5 | 180 |
-| last720d | 2024-11-11 | 5 | 192 | 10 | 38 | 12 | 275 |
+| 30d | 2026-10-03 | 0 | 30 | 3 | 2 | 3 | 34 |
+| last60d | 2026-09-03 | 1 | 41 | 3 | 2 | 3 | 42 |
+| 90d | 2026-08-04 | 2 | 69 | 3 | 6 | 4 | 74 |
+| last180d | 2026-05-06 | 2 | 93 | 3 | 12 | 4 | 134 |
+| 360d | 2025-11-07 | 3 | 129 | 5 | 17 | 5 | 187 |
+| last720d | 2024-11-12 | 5 | 197 | 5 | 38 | 12 | 280 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for scc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T03:41:09Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T03:46:05Z._
