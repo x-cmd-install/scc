@@ -14,11 +14,11 @@ x install scc
 
 ## Code insight
 
-Total: **130,511** lines of code across **203** files in the top 5 languages.
+Total: **130,605** lines of code across **203** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 59,206 | 7,329 | 5,698 | 174 |
+| Go | 59,300 | 7,352 | 5,709 | 174 |
 | Graphql | 51,644 | 0 | 9,958 | 1 |
 | Json | 10,073 | 0 | 1 | 2 |
 | Java | 2,464 | 651 | 798 | 24 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.0` (2026-09-07)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 8,857 · **Forks**: 360 · **Open issues**: 348 · **Contributors**: 149
+- **Stars**: 8,859 · **Forks**: 360 · **Open issues**: 348 · **Contributors**: 149
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 426 · **Open PRs**: 4 · **Closed issues**: 325 · **Open issues**: 23 · **Commits**: 1720
+- **Releases**: 45 · **Merged PRs**: 427 · **Open PRs**: 3 · **Closed issues**: 325 · **Open issues**: 23 · **Commits**: 1721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 31 | 2 | 2 | 2 | 37 |
-| last60d | 2026-09-05 | 1 | 42 | 2 | 3 | 2 | 45 |
-| 90d | 2026-08-06 | 2 | 71 | 2 | 7 | 3 | 77 |
-| last180d | 2026-05-08 | 2 | 94 | 2 | 13 | 3 | 137 |
-| 360d | 2025-11-09 | 3 | 131 | 4 | 18 | 4 | 190 |
-| last720d | 2024-11-14 | 5 | 199 | 4 | 39 | 11 | 282 |
+| 30d | 2026-10-06 | 0 | 31 | 1 | 2 | 2 | 38 |
+| last60d | 2026-09-06 | 1 | 42 | 1 | 3 | 2 | 46 |
+| 90d | 2026-08-07 | 2 | 71 | 1 | 7 | 3 | 78 |
+| last180d | 2026-05-09 | 2 | 95 | 1 | 13 | 3 | 138 |
+| 360d | 2025-11-10 | 3 | 132 | 3 | 18 | 4 | 191 |
+| last720d | 2024-11-15 | 5 | 200 | 3 | 39 | 11 | 283 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for scc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T04:16:52Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T04:35:12Z._
