@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,887 · **Forks**: 364 · **Open issues**: 348 · **Contributors**: 152
+- **Stars**: 8,888 · **Forks**: 365 · **Open issues**: 348 · **Contributors**: 151
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 433 · **Open PRs**: 4 · **Closed issues**: 325 · **Open issues**: 23 · **Commits**: 1727
+- **Releases**: 45 · **Merged PRs**: 433 · **Open PRs**: 5 · **Closed issues**: 325 · **Open issues**: 23 · **Commits**: 1727
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 26 | 2 | 2 | 2 | 28 |
-| last60d | 2026-09-20 | 0 | 43 | 2 | 3 | 2 | 47 |
-| 90d | 2026-08-21 | 2 | 56 | 2 | 7 | 3 | 63 |
-| last180d | 2026-05-23 | 2 | 100 | 2 | 13 | 3 | 142 |
-| 360d | 2025-11-24 | 3 | 135 | 4 | 17 | 4 | 192 |
-| last720d | 2024-11-29 | 5 | 204 | 4 | 39 | 10 | 287 |
+| 30d | 2026-10-21 | 0 | 25 | 3 | 2 | 2 | 28 |
+| last60d | 2026-09-21 | 0 | 42 | 3 | 3 | 2 | 47 |
+| 90d | 2026-08-22 | 2 | 56 | 3 | 7 | 3 | 63 |
+| last180d | 2026-05-24 | 2 | 100 | 3 | 13 | 3 | 142 |
+| 360d | 2025-11-25 | 3 | 134 | 5 | 17 | 4 | 192 |
+| last720d | 2024-11-30 | 5 | 204 | 5 | 39 | 10 | 287 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for scc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T05:23:34Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T05:10:18Z._
